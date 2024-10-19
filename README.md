@@ -1,7 +1,7 @@
 # React-Tube
-**Live Demo**:  https://reactttube.netlify.app
-
 This is a YouTube clone application built with ReactJS, Material-UI (MUI) 6 and integrated with RapidAPI to fetch video data. The app mimics core YouTube functionalities, including video search, video listing, and video playback.
+
+**Click here to see the live project**: [**Deployed Project Link**](https://reactttube.netlify.app)
 
 ## Features
 
