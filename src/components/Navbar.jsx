@@ -8,14 +8,15 @@ const Navbar = () => (
   <Stack
     direction="row"
     alignItems="center"
-    p={2}
+    p={0.5}
     sx={{
       position: "sticky",
-      background: "#000",
+      background: "#000000",
       top: 0,
       justifyContent: "space-between",
       flexDirection: { xs: "column", sm: "row" }, // Stack vertically on small screens
       gap: { xs: 2, sm: 0 }, // Add gap between items on small screens
+      zIndex: 1000,
     }}
   >
     {/* yt logo with hyperlink */}
