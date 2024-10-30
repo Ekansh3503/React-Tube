@@ -73,13 +73,16 @@ The application fetches video data using the [RapidAPI YouTube API](https://yout
 - **Search Functionality**: Users can search for videos using the search bar. The query is sent to RapidAPI's YouTube endpoint, and the results are displayed as video cards.
 - **Video Playback**: Clicking on a video card takes the user to a detailed page where the video plays along with additional information like description, related videos, etc.
 
-## Screenshots
-
-![Home Page](screenshots/home-page.png)
-*Home page of the YouTube clone showing search results*
-
-![Video Page](screenshots/video-page.png)
-*Video playback and details view*
+## UI Screenshots
+![hommescreen](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002445.png?raw=true)
+![hommescreen](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002651.png?raw=true)
+![hommescreen](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002821.png?raw=true)
+![productpage](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002956.png?raw=true)
+![cartview](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003147.png?raw=true)
+![aboutus](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003239.png?raw=true)
+![contactus](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003333.png?raw=true)
+![paymentpage](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003429.png?raw=true)
+![successfullyordered](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003620.png?raw=true)
 
 ## Future Enhancements
 
