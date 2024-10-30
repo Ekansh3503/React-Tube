@@ -74,15 +74,12 @@ The application fetches video data using the [RapidAPI YouTube API](https://yout
 - **Video Playback**: Clicking on a video card takes the user to a detailed page where the video plays along with additional information like description, related videos, etc.
 
 ## UI Screenshots
-![hommescreen](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002445.png?raw=true)
-![hommescreen](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002651.png?raw=true)
-![hommescreen](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002821.png?raw=true)
-![productpage](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20002956.png?raw=true)
-![cartview](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003147.png?raw=true)
-![aboutus](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003239.png?raw=true)
-![contactus](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003333.png?raw=true)
-![paymentpage](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003429.png?raw=true)
-![successfullyordered](https://github.com/Ekansh3503/ecommerce_sanity/blob/main/UI%20ss/Screenshot%202024-10-19%20003620.png?raw=true)
+![hommescreen](https://github.com/Ekansh3503/React-Tube/blob/main/UI%20ss/Screenshot%202024-10-25%20202643.png)
+![hommescreen](https://github.com/Ekansh3503/React-Tube/blob/main/UI%20ss/Screenshot%202024-10-25%20202810.png)
+![hommescreen](https://github.com/Ekansh3503/React-Tube/blob/main/UI%20ss/Screenshot%202024-10-25%20204811.png)
+![videodetail](https://github.com/Ekansh3503/React-Tube/blob/main/UI%20ss/Screenshot%202024-10-25%20205120.png)
+![channeldetail](https://github.com/Ekansh3503/React-Tube/blob/main/UI%20ss/Screenshot%202024-10-25%20205352.png)
+![searchresult](https://github.com/Ekansh3503/React-Tube/blob/main/UI%20ss/Screenshot%202024-10-25%20205603.png)
 
 ## Future Enhancements
 
